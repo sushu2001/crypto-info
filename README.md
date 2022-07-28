@@ -1,6 +1,9 @@
 # CRYPTO-INFO
 
 ## A website to give all the required information on Crypto Coins.
+## Coingecko API is used to fetch and show all the required crypto information.
+
+## API link: https://www.coingecko.com/en/api/documentation
 
 ### Home Page
 
